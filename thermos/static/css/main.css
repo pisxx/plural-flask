@@ -210,10 +210,12 @@ article.flashes {
 
 tr.submit button {
     margin-top: 20px;
+    height: 2em;
 }
 
 input, button {
     margin-left: 10px;
+    /* height: 30em; */
 }
 
 /* ==========================================================================
